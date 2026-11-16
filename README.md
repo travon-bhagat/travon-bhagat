@@ -1,4 +1,4 @@
-# Hey, I'm Travon! &nbsp; `\o/`
+# Hey, I'm Travon!
 
 ---
 
