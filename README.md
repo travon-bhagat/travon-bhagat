@@ -23,7 +23,8 @@ My curiosity has a terrible sense of direction.
 
 ### Tech & Tools
 
-`Python` · `C` · `SQL` · `Machine Learning` · `NLP` · `LLMs` · `Blockchain` · `IoT` · `Embedded Systems` · `Computer Graphics`
+`Python` · `C` · `AI` · `Machine Learning` · `Agentic AI and Multi-Agent Systems` · `NLP` · `LLMs` · `Blockchain` · `IoT` · `Embedded Systems` · `Computer Graphics` 
+
 
 ---
 
