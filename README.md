@@ -2,9 +2,11 @@
 
 
 
-I have a habit of asking "but how does it actually work?"
+I have a habit of asking "Okay.. but how does it actually work?"
 
-I enjoy tinkering with technology, pulling apart abstractions, and understanding what makes things work under the hood. My curiosity has a terrible sense of direction.
+I enjoy tinkering with technology, pulling apart abstractions and, understanding what makes things work under the hood. 
+
+My curiosity has a terrible sense of direction.
 
 ---
 
@@ -27,7 +29,9 @@ I enjoy tinkering with technology, pulling apart abstractions, and understanding
 
 ### Beyond the Code
 
-I like exploring unfamiliar territory, following interesting rabbit holes, and connecting ideas across seemingly unrelated fields.
+- Rabbit holes! Gimme some!
+- I would love to own Cats
+- And hey, I am a Drummer!!
 
 ---
 
