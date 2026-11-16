@@ -2,9 +2,10 @@
 
 ---
 
-Curious by nature, explorer by choice.
+I have a habit of asking "but how does it actually work?"
 
-I enjoy tinkering with technology, pulling apart abstractions, and understanding what makes things work under the hood. 
+I enjoy tinkering with technology, pulling apart abstractions, and understanding what makes things work under the hood. My curiosity has a terrible sense of direction.
+
 ---
 
 ### A little about me
@@ -30,4 +31,4 @@ I like exploring unfamiliar territory, following interesting rabbit holes, and c
 
 ---
 
-*Stay Forsty. Stay Curious. Stay Lively. Keep asking Why.*
+*Keep wondering. Keep wandering.*
